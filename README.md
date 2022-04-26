@@ -27,3 +27,7 @@ Pandas 4:
 - En el punto 1 ya Anne cambio el código
   para eliminar los nulos
 - Nos faltan los puntos 3,4,5,6,7,8,9 y 10.
+
+VISUALIZACIÓN 1:
+
+- Dudas con el value_counts. Ejercicio 1
