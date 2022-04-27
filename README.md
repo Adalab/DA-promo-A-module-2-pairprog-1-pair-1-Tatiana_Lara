@@ -11,4 +11,4 @@ Pandas 4:
 - Problema con ej.8
 - Revisar ej. 9
 
-  VISUALIZACIÓN 1:
+VISUALIZACIÓN 1:
