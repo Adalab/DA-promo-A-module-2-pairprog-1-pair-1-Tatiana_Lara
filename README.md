@@ -2,13 +2,6 @@
 
 Repo Mód. 2 equipo 1
 
-Pandas 1:
-
-- Preguntar a Tatiana por los ejercicios de df.Oro del loc
-
-Pandas 4:
-
-- Problema con ej.8
-- Revisar ej. 9
-
-VISUALIZACIÓN 1:
+Numpy: completo
+Pandas 1-6 (no hemos comenzado el 7)
+Visualización 1 y 2 (no hemos comenzado el 3).
